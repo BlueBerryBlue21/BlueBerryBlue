@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="BlueBerryBlue" Logo="" Description="BlueBerryBlue Experimental Mod for 7D2D">
+		<Server Name="BlueBerryBlue" Logo="">
+			<Description>
+Recommended:
+
+Recommended:
+
+Required: Game Version 1.3
+        
+Welcome to the BlueBerryBlueLand: 
+
+      </Description>
+			<Version>Latest</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/BlueBerryBlue21/BlueBerryBlue</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
